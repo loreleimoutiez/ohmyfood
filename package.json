@@ -1,0 +1,11 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "Site de réservation de restaurants",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./style/index.scss:./style/css/index.css"
+  },
+  "author": "Loreleï Moutiez",
+  "license": "ISC"
+}

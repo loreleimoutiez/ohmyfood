@@ -1,0 +1,15 @@
+@import "global.scss";
+@import "variable/couleur.scss";
+
+/* components */
+@import "components/animation.scss";
+@import "components/like.scss";
+@import "components/restaurant-card.scss";
+@import "components/navbar.scss";
+@import "components/footer.scss";
+@import "components/menu-btn.scss";
+
+/* Pages */
+
+@import "pages/accueil.scss";
+@import "pages/menu.scss";
