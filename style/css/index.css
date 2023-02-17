@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
   margin: 0;
   padding: 0;
@@ -242,7 +243,7 @@ footer a {
   pointer-events: none;
   animation: 0.2s linear 2s loading;
   animation-fill-mode: forwards;
-  /* empecher la boucle */
+  /* pour empêcher la boucle */
 }
 
 @keyframes loading {

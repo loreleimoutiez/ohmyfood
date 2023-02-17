@@ -13,7 +13,7 @@
     pointer-events: none;
     animation: 0.2s linear 2s loading;
     animation-fill-mode: forwards;
-    /* empecher la boucle */
+    /* pour empêcher la boucle */
 }
 
 @keyframes loading {
