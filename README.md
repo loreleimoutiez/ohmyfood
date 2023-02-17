@@ -25,6 +25,8 @@ produits de qualité.
 <img align="left" src="https://user-images.githubusercontent.com/101470978/219616097-bb52849e-44b7-4114-acce-509699b168f8.png" width="45%" height="50%">
 <img align="right" src="https://user-images.githubusercontent.com/101470978/219618114-0b51b2f8-fffa-4776-89d0-2faea3e24af9.png" width="45%" height="50%">  
 
+<p>Le site est visible ici : https://loreleimoutiez.github.io/ohmyfood/</p>
+
 ## Effets graphiques et animations
 Les effets accessibles au clic ou au survol sont visibles sur la maquette. Ils utilisent
 les animations ou transitions CSS, pas de JavaScript ni de librairie.
