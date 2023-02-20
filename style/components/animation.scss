@@ -1,0 +1,19 @@
+@mixin cascade-delay {
+  @for $i from 1 through 4 {
+    &:nth-child(#{$i}) {
+      animation-delay: 500ms * $i;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}

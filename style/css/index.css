@@ -248,7 +248,7 @@ footer a {
 
 @keyframes loading {
   from {
-    opacity: 100%;
+    opacity: 90%;
   }
   to {
     opacity: 0;
